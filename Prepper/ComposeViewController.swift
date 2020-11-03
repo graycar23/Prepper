@@ -11,6 +11,7 @@ class ComposeViewController: UIViewController {
 
     @IBAction func close(_ sender: Any) {
         dismiss(animated: true, completion: nil)
+        //Hello World!
     }
     
     override func viewDidLoad() {
